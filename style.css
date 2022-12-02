@@ -1,0 +1,77 @@
+body{
+    background:  #ededeb;
+
+
+}
+.logo{
+    display: block;
+    margin: 0px auto;
+    justify-content: center;
+    max-width: 100%;
+    width: 250px;
+
+}
+.doceria{
+    color: #CAA051;
+    text-align: center;
+    position: relative;
+    bottom: 70px;
+    left: 10px;
+}
+.WhatsApp{
+    color: #000000;
+            background-color: #BFDDC7;
+            border-radius: 10px;
+            width: 80%;
+            padding: 15px;
+            display: flex;
+            right: 10px;
+            position: relative;
+            bottom:20px;
+            justify-content: center;
+            text-align: center;
+            margin: auto;
+            text-decoration: none;
+            text-transform: uppercase;
+
+
+}
+.instagram{
+
+    color: #000000;
+            background-color: #BFDDC7;
+            border-radius: 10px;
+            width: 80%;
+            padding: 15px;
+            display: flex;
+            right: 10px;
+            position: relative;
+            bottom: 10px;
+            justify-content: center;
+            text-align: center;
+            margin: auto;
+            text-decoration: none;
+            text-transform: uppercase;
+}
+.cardapio{
+    color: #000000;
+            background-color: #BFDDC7;
+            border-radius: 10px;
+            width: 80%;
+            padding: 15px;
+            display: flex;
+            right: 10px;
+            position: relative;
+            
+            justify-content: center;
+            text-align: center;
+            margin: auto;
+            text-decoration: none;
+            text-transform: uppercase;
+}
+.Linktree a:hover{
+    background-color: rgb(255, 255, 255);
+
+
+
+}
