@@ -1,5 +1,6 @@
 body{
-    background:  #ededeb;
+    
+    background-image: url('img/BackgroundNatalino.jpg');
 
 
 }
@@ -19,8 +20,10 @@ body{
     left: 10px;
 }
 .WhatsApp{
-    color: #000000;
-            background-color: #BFDDC7;
+            /*color: #000000;
+            /*background-color: #BFDDC7;*/
+            color: black;
+            background-color:#ffff;
             border-radius: 10px;
             width: 80%;
             padding: 15px;
@@ -38,8 +41,10 @@ body{
 }
 .instagram{
 
-    color: #000000;
-            background-color: #BFDDC7;
+   /*color: #000000;
+            /*background-color: #BFDDC7;*/
+            color: black;
+            background-color:#ffff;
             border-radius: 10px;
             width: 80%;
             padding: 15px;
@@ -54,8 +59,10 @@ body{
             text-transform: uppercase;
 }
 .cardapio{
-    color: #000000;
-            background-color: #BFDDC7;
+    /*color: #000000;
+            /*background-color: #BFDDC7;*/
+            color: black;
+            background-color:#ffff;
             border-radius: 10px;
             width: 80%;
             padding: 15px;
@@ -69,9 +76,25 @@ body{
             text-decoration: none;
             text-transform: uppercase;
 }
+.cardapioNatal{
+  /*color: #000000;
+            /*background-color: #BFDDC7;*/
+            color: black;
+            background-color:#ffff;
+            border-radius: 10px;
+            width: 80%;
+            padding: 15px;
+            display: flex;
+            right: 10px;
+            position: relative;
+            top:10px;
+            justify-content: center;
+            text-align: center;
+            margin: auto;
+            text-decoration: none;
+            text-transform: uppercase;
+}
 .Linktree a:hover{
     background-color: rgb(255, 255, 255);
-
-
-
+  
 }
